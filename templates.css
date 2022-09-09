@@ -1,0 +1,20 @@
+body {
+    background-color: #f9f9f9;
+}
+table {
+    background-color: #cdf0ea;
+    border-radius: 15px;
+    box-shadow: 10px 10px #a084ca;
+}
+a:link {
+    font-family: serif;
+    font-size: 20px;
+    background-color: pink;
+    border-radius: 20px;
+}
+a:hover {
+    font-family: serif;
+    font-size: 42px;
+    border-radius: 32px;
+    transition: ease-in 0, 5s;
+}
